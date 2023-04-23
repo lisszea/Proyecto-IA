@@ -8,3 +8,7 @@ Lisset Andrea Zea Monsalve, CC 1152713576, Bioingeniería
 
 Datos
 Los datos del proyecto vienen de La competición Kaggle Santader Customer Transaction Prediction
+
+
+# Video entrega 2 
+https://youtu.be/-ULkgvWmrZc
