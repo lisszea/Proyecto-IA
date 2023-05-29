@@ -12,3 +12,6 @@ Los datos del proyecto vienen de La competición Kaggle Santader Customer Transa
 
 # Video entrega 2 
 https://youtu.be/-ULkgvWmrZc
+
+# Video entrega final
+https://www.youtube.com/watch?v=gBud3TrjzOY&ab_channel=BRAYANDANIELOVIEDOBARRETO
